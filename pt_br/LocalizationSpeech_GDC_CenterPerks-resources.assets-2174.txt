@@ -1,0 +1,199 @@
+Text ID	English	German	French	Spanish	Russian	Polish						
+												
+Text.GDC.IntroCutscene.01	Testando 1 2 3											
+												
+Text.Quest.CraftTitle	Festa da Fabricaçäo!											
+Text.Quest.CraftObjective	Crie uma arma poderosa conhecida como 'Arma de Meia'.											
+Text.Quest.CraftDescription	"""Aí está você escudeiro! Eu estava começando a achar que você iria me esgotar ... Se você fizesse isso, eu removeria suas pernas, pixel por pixel.\n\nCerto, heh ... Eu quero que você junte uma arma para mim ... Usando o Sabonete e a Meia - faça ... Ou entäo ... Use os locais do mapa como referência para ver onde você precisa estar. Gostou disso?"""											
+												
+Text.Quest.PlantTitle	Seu Rato Sujo!											
+Text.Quest.PlantObjective	Plante este $ItemToGet na mesa deles.											
+Text.Quest.PlantDescription	"""Ei camarada… Sim, você!\n\nOuça, um dos condenados está falando mal de mim de novo e quero que você envie uma mensagem para ele tremer aquela espinha pixelizada. Você * IRÁ * fazer isso por mim!\n\nClaro, vou recompensá-lo generosamente. Eu marquei o local no seu mapa! Isso é se você quiser fazer isso por mim?"""											
+												
+Text.Quest.CombatTitle	Justiça Insensível!											
+Text.Quest.CombatItemDesc	Pegue o $ItemToGet											
+Text.Quest.CombatObjective	Ataque e bata no prisioneiro inconsciente $CombatTarget											
+Text.Quest.CombatDescription	"""Até agora você näo me decepcionou, entäo está indo bem - bem ... Nada mal!\n $CombatTarget continua despejando besteiras de sua boca de falar e estou ficando cansado disso!\n\nPegue de volta sua Arma de Meia e use naquele punk!\n\nNäo me decepcione, você sabe o quäo perigoso eu posso ser ... De um jeito pixelado bonitinho que é ... Se você quer fazer isso é? VAMOOSE!"""											
+												
+Text.Quest.FloodTitle	Abra as Comportas!											
+Text.Quest.FloodObjective	Coloque o item no banheiro de $FloodTarget para inundá-lo.											
+Text.Quest.FloodDescription	"""Você está gostando disso, näo é? Você está indo muito bem.\nDe qualquer forma, chega de ser legal - vamos ao trabalho. Eu quero aquele pixel-punk chateado e abalado com o que nós, errr, quero dizer, quero dizer, o que eu posso fazer ... heh.\n\nCERTO, pegue isso e bloqueie $FloodTarget de ir ao banheiro e fazer uma bagunça adequada em sua cela. Se você vai fazer isso, lembre-se de verificar seu mapa para ver aonde você precisa ir!"""											
+Text.Quest.FloodItem.Desc	Pegue o $ItemToGet											
+												
+Text.Quest.RedKeyTitle	Dinheiro Sujo!											
+Text.Quest.RedKeyObjective	Obtenha a Chave Vermelha de Plástico											
+Text.Quest.RedKeyDescription	"""Tem certeza de que näo fez isso antes? Você está se revelando um grande 'BIG CON' por aqui, näo é?\n\nFalei com um de meus associados e eles estäo dispostos a lhe dar uma recompensa, * muito * boa mesmo!\n\nIsto é, se você quiser colecionar?"""											
+Text.Quest.RedKeyObjectiveA	Acesse o telhado usando a Chave Vermelha de Plástico											
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+END												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
