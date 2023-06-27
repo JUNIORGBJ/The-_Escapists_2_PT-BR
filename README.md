@@ -1,6 +1,5 @@
-Tradução The Escapists 2 para Nintendo Switch
 <h1 align="center"><figure>
-  <img src="the_escapist_2.PNG">
+  <img src="the_escapist_2.png">
 </figure></h1>
 
 ## :small_blue_diamond:Sobre a Tradução.
