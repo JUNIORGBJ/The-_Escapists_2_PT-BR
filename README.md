@@ -2,6 +2,8 @@
   <img src="the_escapist_2.png">
 </figure></h1>
 
+> Status do Projeto: :heavy_check_mark: (concluido)
+
 ## :small_blue_diamond:Sobre a Tradução.
 
 Tradução jogo base feita pelo grupo TriboGamer (Ribacm) 
