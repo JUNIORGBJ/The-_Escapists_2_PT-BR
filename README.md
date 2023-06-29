@@ -1,8 +1,8 @@
+> Status do Projeto: :heavy_check_mark: (concluido)
+
 <h1 align="center"><figure>
   <img src="the_escapist_2.png">
 </figure></h1>
-
-> Status do Projeto: :heavy_check_mark: (concluido)
 
 ## :small_blue_diamond:Sobre a Tradução.
 
